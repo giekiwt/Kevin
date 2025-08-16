@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20I'm%20Gia%20Kiệt%20👋&fontSize=50&fontAlignY=35&color=0:8e44ad,100:3498db&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi%20I'm%20Kevin%20👋&fontSize=50&fontAlignY=35&color=0:8e44ad,100:3498db&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- About Me -->
